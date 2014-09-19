@@ -1,0 +1,3 @@
+[submodule "skins/foreground"]
+	path = skins/foreground
+	url = https://github.com/brightdigit/ghamic-1.0-foreground.git
