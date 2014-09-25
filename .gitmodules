@@ -1,3 +1,6 @@
 [submodule "skins/foreground"]
 	path = skins/foreground
 	url = https://github.com/brightdigit/ghamic-1.0-foreground.git
+[submodule "extensions/ParserFunctions"]
+	path = extensions/ParserFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ParserFunctions.git
